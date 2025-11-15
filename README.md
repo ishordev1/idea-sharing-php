@@ -1,4 +1,5 @@
-# Open your browser and go to: https://idea-sharing.free.nf/
+# Open your browser and go to: 
+https://idea-sharing.free.nf/
 # IdeaConnect - Business Idea Sharing Platform
 
 A complete web platform where entrepreneurs can post their business ideas and investors can browse, show interest, and connect through a real-time chat system.
