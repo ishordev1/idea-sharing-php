@@ -137,9 +137,9 @@ idea_sharing_website/
    - On Linux/Mac: `chmod 755 uploads/`
 
 6. **Access the Application**
-   - Open your browser and go to: http://localhost/idea_sharing_website
+   - Open your browser and go to: https://idea-sharing.free.nf/
+   - hosted on netlify hosting
    - You should see the homepage
-
 ## Default Test Accounts
 
 The database comes with pre-populated test accounts:
